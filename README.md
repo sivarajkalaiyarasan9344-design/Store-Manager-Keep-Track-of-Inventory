@@ -1,1 +1,1 @@
-store manager: Keep Track of Inventory
+store-manager-Keep-Track-of-Inventory
